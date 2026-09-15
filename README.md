@@ -2,7 +2,7 @@
 ### Let's me introduced myself, I'm Artist, Writer, GameDev, also learning AI to Vibe coding and to Dev on project.
 
 #### About me.🎭
-  - I'm Thai native, Secondary on English, and now still on learning Japanese.
+  - I'm Thai native 🇹🇭, Secondary on English, and now still on learning Japanese 🇯🇵.
   - I likes creative and designing anything, example, Game, Charactor, Story, Architecture, etc.
   - I sight in Producer or Director role. Still gaining my experience.
 
