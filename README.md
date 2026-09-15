@@ -1,9 +1,12 @@
 ## Hello my name is LDKTC, not just a random name!🔥. You can call me Photon if you want.
-#### Let's me introduced myself, i'm Artist, Writer, GameDev, also learning AI to Vibe coding and to Dev on project.
+### Let's me introduced myself, I'm Artist, Writer, GameDev, also learning AI to Vibe coding and to Dev on project.
 
+#### About me.🎭
+  - I'm Thai native, Secondary on English, and now still on learning Japanese.
+  - I likes creative and designing anything, example, Game, Charactor, Story, Architecture, etc.
+  - I sight in Producer or Director role. Still gaining my experience.
 
-
-My currently project on github.🛠️ Mainly working on sqlite and game.
+#### My currently project on github.🛠️ Mainly working on sqlite app and game.
   - 📝 **ZYDRAXYL/DraconDex** ,
     - App with multi-module to help people to note down the story (any kind of story, likes Novel, Game, DnD, and another more)
   - 📔 **ZYDRAXYL/QuetzaLib** ,
@@ -11,7 +14,7 @@ My currently project on github.🛠️ Mainly working on sqlite and game.
   - 📊 **ZYDRAXYL/Ourobask** ,
     - Mobile task managing app, can add task you work on and deadlines, remind you before redlines and showing timetable and calendar for time management.
   - 💾 **ZYDRAXYL/Zydraxyl (on design)**,
-    - Web&App Engine project that make Web&App easy like Unity, Blender, Scratch with Editor Workspace and Node + relation.
+    - Web&App Engine project that make Web&App easy likes Unity, Blender, Scratch with Drag and Drop Editor Workspace and Node + relation.
   - 🕹️ **Unity 2D GameProjects**.
   
 
