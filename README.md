@@ -6,7 +6,7 @@
   - I likes creative and designing anything, example, Game, Charactor, Story, Architecture, etc.
   - I sight in Producer or Director role. Still gaining my experience.
 
-#### My currently project on github.🛠️ Mainly working on sqlite app and game.
+#### My currently project on github.🛠️ Mainly working on SQLite app and game.
   - 📝 **ZYDRAXYL/DraconDex** ,
     - App with multi-module to help people to note down the story (any kind of story, likes Novel, Game, DnD, and another more)
   - 📔 **ZYDRAXYL/QuetzaLib** ,
